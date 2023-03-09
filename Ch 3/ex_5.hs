@@ -1,0 +1,3 @@
+--It is only feasible when two functions return types that are within the Eq class.
+--Otherwise, hte functions themselves would not be comparable in the Eq class because
+--it's output type may not be part of Eq class.
